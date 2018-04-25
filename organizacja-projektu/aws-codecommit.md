@@ -2,7 +2,7 @@
 
 ### AWS CodeCommit czy GitHub?
 
-Kolejną dobrą praktyką w sumie przy każdym projekcie, to system kontroli wersji kodu. Ja postanowiłem używać do tego celu Git, a jako repozytorium wybrałem jeden z serwisów AWS, a mianowicie **AWS CodeCommit**. Dlaczego nie **GiHub**? Po pierwsze, prawie każdy zna GitHub a w końcu tutorial polega na tym, żeby nauczyć się czegoś nowego. Po drugie i tak duża część naszej aplikacji będzie zależeć właśnie od różnych serwisów AWS więc uznałem, że kod projektu także chcę mieć zarządzany przez AWS - dzięki temu praktycznie cała aplikacja jest w jednym miejscu.
+Przy starcie praktycznie każdego nowego projektu dobrą praktyką jest konfiguracja systemu kontroli wersji kodu. Ja postanowiłem używać do tego celu Git, a jako repozytorium wybrałem jeden z serwisów AWS, a mianowicie **AWS CodeCommit**. Dlaczego nie **GiHub**? Po pierwsze, prawie każdy zna GitHub a w końcu tutorial polega na tym, żeby nauczyć się czegoś nowego. Po drugie i tak duża część naszej aplikacji będzie zależeć właśnie od różnych serwisów AWS więc uznałem, że kod projektu także chcę mieć zarządzany przez AWS - dzięki temu praktycznie cała aplikacja jest w jednym miejscu.
 
 ### Amazon Web Services Free Tier
 
