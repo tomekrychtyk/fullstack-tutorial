@@ -13,4 +13,5 @@
   * [Piszemy prosty serwer w Express](graphql-wprowadzenie/piszemy-prosty-serwer-w-express.md)
   * [GraphQL Schema](graphql-wprowadzenie/graphql-schema.md)
   * [Instalujemy Nodemon](graphql-wprowadzenie/instalujemy-nodemon.md)
+* Serverless
 
