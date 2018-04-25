@@ -1,5 +1,7 @@
 # ESLint
 
+### Instalacja ESLint
+
 ESLint to świetne narzędzie usprawniające pracę programisty Javascript. Odpowiednio skonfigurowany będzie wyłapywał wszelkie błędy składniowe, zbędne bloki kodu, nieużywane importy, zmienne itd.  
 Do tego każdy nowszy edytor kodu wykryje fakt, że ESLint jest skonfigurowany w naszym projekcie i również będzie wyświetlał nam komunikaty o błędach, wszelkiego rodzaju wskazówki itp.  
 Aby go zainstalować wpisujemy w terminalu `yarn add --dev eslint`
@@ -54,6 +56,20 @@ W ten sposób instruujemy ESLint, żeby skanował tylko katalog ./src czyli ten 
 Możemy teraz przetestować instalację ESLint za pomocą komendy yarn eslint --version:
 
 ![Pic 2. Sprawdzanie instalacji ESLint](../.gitbook/assets/screenshot-from-2018-04-25-14-10-04.png)
+
+### .gitignore i pierwszy commit
+
+Ok, chyba czas na pierwszy commit naszego kodu, tylko zanim to zrobimy musimy jeszcze zadbać o to, żeby Git ignorował katalog **node\_modules** w **backend** ponieważ było by to naprawdę niepoważne pchać tak ogromne ilości plików do repozytorium. W tym celu tworzymy sobie w **nadrzędnym** katalogu \(czyli jeden poziom wyżej niż **backend**\) plik .gitignore o takiej treści:
+
+{% code-tabs %}
+{% code-tabs-item title="/.gitignore" %}
+```text
+backend/node_modules
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+Na chwilę obecną powinno wystarczyć. Robimy commit i ewentualnie push do zdalnego repo.
 
 {% page-ref page="../graphql-wprowadzenie/" %}
 
