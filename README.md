@@ -1,37 +1,17 @@
-## /tomek.rychtyk.pl/fullstack-tutorial
+# Wprowadzenie
 
-You can use the [editor on GitHub](https://github.com/tomekrychtyk/fullstack-tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Kilka słów o mnie {#kilka-slow-o-mnie}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cześć, witam serdecznie na moim kursie!   
+Ja mam na imię Tomek i jestem pasjonatem technologii webowych, od kilku lat profesjonalnie zajmującym się programowaniem aplikacji internetowych. W ciągu tego czasu miałem styczność z dużą ilością różnych frameworków, języków, czy mówiąc generalnie - rozwiązań. Dlatego też w końcu postanowiłem zebrać część mojej wiedzy i podzielić się nią z szerszym gronem.
 
-### Markdown
+### Motywacja {#motywacja}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Generalnie jak wiadomo w sieci istnieje mnóstwo tutoriali czy poradników dotyczących jakiegoś jednego konkretnego zagadninenia typu "React - podstawy", "Wstęp do GraphQL" itp. I jak najbardziej zachęcam również do regularnego czytania i robienia takich kursów, bo z nich się możemy dużo nauczyć, zwłaszcza jeśli chodzi o podstawy danego rozwiązania. Jednak rzadko kiedy tutoriale te pokazują, jak wykorzystać nabytą wiedzę np. na temat jakiegoś frameworka w połączeniu z innymi rozwiązaniami. Dlatego też chciałem stworzyć kurs, w którym zrobimy sobie kompletną aplikację, od początku do końca, i w którym pokażę wszystkie etapy jej powstawania, a nie np. tylko warstwę front-endową.
 
-```markdown
-Syntax highlighted code block
+No, myślę, że tyle wyatarczy na początek. Po tym dość przydługawym wstępie, bierzmy się do pracy!
 
-# Header 1
-## Header 2
-### Header 3
+{% page-ref page="struktura-projektu.md" %}
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomekrychtyk/fullstack-tutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
