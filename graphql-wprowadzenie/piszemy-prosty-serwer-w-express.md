@@ -14,10 +14,10 @@ W tym tutorialu używać będę **yarn** do zarządzania zależnościami, jednak
 
 ### Prosty serwer w Express
 
-Ok, jeśli instalacja przebiegła pomyślnie, tworzymy sobie nowy plik o nazwie server.js:
+Ok, jeśli instalacja przebiegła pomyślnie, tworzymy sobie nowy plik o nazwie server.js w /backend/graphql/server.js:
 
 {% code-tabs %}
-{% code-tabs-item title="server.js" %}
+{% code-tabs-item title="/backend/graphql/server.js" %}
 ```javascript
 const express = require('express');
 const expressGraphQL = require('express-graphql');
@@ -34,6 +34,8 @@ Na razie mamy jak widać bardzo prosty serwer w Express, który zreszta nie ma j
 
 Aby użyć express-graphql musimy dodać do serwera poniższy kod:
 
+{% code-tabs %}
+{% code-tabs-item title="/backend/graphql/server.js" %}
 ```javascript
 const express = require('express');
 const expressGraphQL = require('express-graphql');
@@ -48,6 +50,8 @@ app.listen(4000, () => {
   console.log('Listening at 4000');
 });
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 Za pomocą `app.use()` dajemy instrukcję serwerowi w rodzaju: każde żądanie ścieżki `/graphql` obsługuj używając `expressGraphQL`. Tak naprawdę `expressGraphQL` w świecie Node.js jest to tzw. middleware czyli właśnie pośrednik, mówiąc po polsku. Express pozwala nam na zarejestrowanie wielu takich pośredników dla różnych żądań właśnie za pomocą `app.use()`. Więcej na ten temat można przeczytać [w dokumentacji](https://expressjs.com/en/api.html#app.use).
 
