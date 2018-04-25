@@ -55,3 +55,7 @@ Możemy teraz przetestować instalację ESLint za pomocą komendy yarn eslint --
 
 ![Pic 2. Sprawdzanie instalacji ESLint](../.gitbook/assets/screenshot-from-2018-04-25-14-10-04.png)
 
+{% page-ref page="../graphql-wprowadzenie/" %}
+
+
+

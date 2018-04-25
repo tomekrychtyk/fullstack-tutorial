@@ -70,5 +70,7 @@ Przy czym jeśli repozytorium CodeCommit zostało utworzone w innym rejonie, zam
 
 > You have successfully authenticated over SSH. You can use Git to interact with AWS CodeCommit.
 
+{% page-ref page="laczymy-sie-z-codecommit.md" %}
+
 
 
