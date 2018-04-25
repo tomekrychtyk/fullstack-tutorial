@@ -5,8 +5,9 @@
 * [Stack technologiczny](stack-technologiczny.md)
 * [Projekt końcowy](projekt-koncowy.md)
 * [Organizacja projektu](organizacja-projektu/README.md)
-  * [ESLint](organizacja-projektu/eslint.md)
   * [AWS CodeCommit](organizacja-projektu/aws-codecommit.md)
+  * [Łączymy się z CodeCommit](organizacja-projektu/laczymy-sie-z-codecommit.md)
+  * [ESLint](organizacja-projektu/eslint.md)
 * GraphQL na początek
   * [Piszemy prosty serwer w Express](graphql-wprowadzenie/piszemy-prosty-serwer-w-express.md)
   * [GraphQL Schema](graphql-wprowadzenie/graphql-schema.md)
