@@ -8,7 +8,7 @@
   * [AWS CodeCommit](organizacja-projektu/aws-codecommit.md)
   * [Łączymy się z CodeCommit](organizacja-projektu/laczymy-sie-z-codecommit.md)
   * [ESLint](organizacja-projektu/eslint.md)
-* GraphQL na początek
+* Pierwsze kroki z GraphQL
   * [Piszemy prosty serwer w Express](graphql-wprowadzenie/piszemy-prosty-serwer-w-express.md)
   * [GraphQL Schema](graphql-wprowadzenie/graphql-schema.md)
   * [Instalujemy Nodemon](graphql-wprowadzenie/instalujemy-nodemon.md)
