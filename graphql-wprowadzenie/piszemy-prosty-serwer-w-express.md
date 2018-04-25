@@ -63,7 +63,7 @@ Ok, w tym momencie jesteśmy już gotowi do testowego odpalenia naszego serwera 
 
 Powinniśmy zobaczyć nasz log, czyli "**Listening at 4000**".  
 Sprawdźmy więc w przeglądarce jak zostanie przetwożone nasze żądanie: http://localhost:4000/graphql  
-Po wejściu na podany adres zobaczymy... wiadomość z błędzie:
+Po wejściu na podany adres, zobaczymy... wiadomość o błędzie:
 
 ```javascript
 {
