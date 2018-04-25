@@ -1,4 +1,4 @@
-# Organizacja projektu
+# Wstępna konfiguracja projektu
 
 Nasz projekt będzie się składał tak naprawdę z dwóch niejako odrębnych aplikacji, które będą oczywiście się ze sobą komunikować. O komunikację między nimi zadbają nam odpowiednie serwisy AWS, ale jest to na razie dość odległa przyszłość. Myślę, że warto na razie po prostu zacząć od czegoś małego i sukcesywnie dobudowywać kolejne wersje programu.
 

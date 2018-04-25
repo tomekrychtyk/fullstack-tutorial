@@ -4,7 +4,7 @@
 * [Struktura kursu](struktura-projektu.md)
 * [Stack technologiczny](stack-technologiczny.md)
 * [Projekt końcowy](projekt-koncowy.md)
-* [Organizacja projektu](organizacja-projektu/README.md)
+* [Wstępna konfiguracja projektu](organizacja-projektu/README.md)
   * [Dodajemy repozytorium do AWS CodeCommit](organizacja-projektu/aws-codecommit.md)
   * [Dodajemy nowego użytkownika w AWS](organizacja-projektu/dodajemy-nowego-uzytkownika-w-aws.md)
   * [Łączymy się z CodeCommit](organizacja-projektu/laczymy-sie-z-codecommit.md)
