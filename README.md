@@ -1,4 +1,4 @@
-# REACT + AWS Lambda FullStack Tutorial
+# React.js with Redux + AWS Lambda FullStack Tutorial
 
 ### Wprowadzenie
 
