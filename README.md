@@ -2,9 +2,5 @@
 
 ### Wprowadzenie
 
-* [Słowo wstępu]()
-* [Dla kogo jest ten kurs?]()
-* [Czego się nauczę]()
-
 
 
