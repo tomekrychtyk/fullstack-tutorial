@@ -6,4 +6,5 @@
 
 * [Słowo wstępu](wprowadzenie/slowo-wstepu.md)
 * [Dla kogo jest ten kurs?](wprowadzenie/dla-kogo-jest-ten-kurs.md)
+* [Czego się nauczę?](wprowadzenie/czego-sie-naucze.md)
 
