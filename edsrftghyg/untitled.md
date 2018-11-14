@@ -1,4 +1,4 @@
-# Wprowadzenie
+# Słowo wstępu
 
 Cześć!
 

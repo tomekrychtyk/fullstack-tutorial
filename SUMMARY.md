@@ -5,5 +5,5 @@
 
 ## Wprowadzenie
 
-* [Wprowadzenie](edsrftghyg/untitled.md)
+* [Słowo wstępu](edsrftghyg/untitled.md)
 
