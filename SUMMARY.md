@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Słowo wstępu](README.md)
+* [Spis treści](README.md)
 
 ## Wprowadzenie
 
