@@ -1,4 +1,4 @@
-# Spis treści
+# REACT + AWS Lambda FullStack Tutorial
 
 ### Wprowadzenie
 

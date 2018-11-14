@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Spis treści](README.md)
+* [REACT + AWS Lambda FullStack Tutorial](README.md)
 
 ## Wprowadzenie
 
