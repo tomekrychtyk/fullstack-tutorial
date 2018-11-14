@@ -2,8 +2,8 @@
 
 ### Wprowadzenie
 
-* Słowo wstępu
-* Dla kogo jest ten kurs?
+* [Słowo wstępu](edsrftghyg/untitled.md)
+* [Dla kogo jest ten kurs?](edsrftghyg/dla-kogo-jest-ten-kurs.md)
 
 
 
