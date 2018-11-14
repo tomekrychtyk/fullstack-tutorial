@@ -1,4 +1,4 @@
 # Table of contents
 
-* [WPROWADZENIE](README.md)
+* [Wprowadzenie](README.md)
 
