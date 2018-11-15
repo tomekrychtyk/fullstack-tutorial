@@ -19,6 +19,7 @@ Poniżej w skrócie przedstawiam "technology stack", z którego będziemy korzys
 * AWS CloudFront
 * AWS S3
 * Webpack
+* Babel
 * ESLint
 * Plop
 
