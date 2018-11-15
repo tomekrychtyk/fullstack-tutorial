@@ -111,7 +111,7 @@ Teraz możemy odpalić nasze środowisko developerskie za pomocą komendy:
 
 `yarn start`
 
-Jeśli wszystko poszło ok, powinna otworzyć się nowa karta w przeglądarce z \(z typowo Apache-like ;\) \) napisem "**It works!**".
+Jeśli wszystko poszło ok, powinna otworzyć się nowa karta w przeglądarce z \(typowo Apache-like ;\) \) napisem "**It works!**".
 
 Super! W końcu możemy przejść do rzeczy naprawdę ciekawych, czyli do **React.js**!
 
