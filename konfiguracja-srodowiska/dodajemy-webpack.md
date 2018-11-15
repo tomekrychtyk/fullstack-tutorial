@@ -14,7 +14,7 @@ Jako że będziemy używać React-a, chcemy korzystać ze wszystkich jego dobrod
 
 Bardzo pomocny przy pisaniu aplikacji w JS będzie również tzw. [**code linter** ](https://en.wikipedia.org/wiki/Lint_%28software%29)czyli narzędzie do statycznej analizy naszego kodu - ostrzeże nas ono w razie popełnienia błędów składniowych, literówek, użycia niezadeklarowanych zmiennych, czy też w poważniejszych sytuacjach jak np. przy importowaniu nieistniejących bibliotek, a nawet próbie użycia cyrkularnych referencji! Ja na codzień używam [**ESLint**](https://eslint.org/) więc i w tym projekcie mam zamiar go zainstalować:
 
-`yarn add --dev eslint babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react`
+`yarn add --dev eslint babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-config-airbnb`
 
 Tak uzbrojeni w Webpacka i resztę, możemy w końcu przejść do ich konfiguracji.
 

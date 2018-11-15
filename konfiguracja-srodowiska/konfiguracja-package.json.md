@@ -11,5 +11,14 @@ Zanim przejdziemy do `package.json` skonfigurujmy sobie jeszcze na szybko Babel-
 }
 ```
 
+Teraz otwieramy `package.json` i dodajemy do niego sekcję `scripts`, a w niej dwa skrypty:
+
+```javascript
+  "scripts": {
+    "start": "webpack-dev-server --open --config webpack.dev.js",
+    "eslint": "eslint ."
+  }
+```
+
 
 
