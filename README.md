@@ -7,3 +7,8 @@
 * [Czego się nauczę?](wprowadzenie/czego-sie-naucze.md)
 * [Aplikacja końcowa](wprowadzenie/aplikacja-koncowa.md)
 
+### Konfiguracja środowiska
+
+* [Po pierwszy: yarn init](konfiguracja-srodowiska/po-pierwsze-yarn-init.md)
+* [Dodajemy Webpack](konfiguracja-srodowiska/dodajemy-webpack.md)
+
