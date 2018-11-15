@@ -1,6 +1,6 @@
 # Konfiguracja Webpacka
 
-Webpack posiada mnóstwo możliwości konfiguracyjnych, jednak wszystkie są bardzo dobrze udokumentowane. Jak wspomniałem na wstępie, chcę, aby ten tutorial był maksymalnie praktyczny więc poniżej przedstawię po prostu wstępną konfigurację dla naszego projektu, a zainteresowanych tematem odsyłam po prostu do [**dokumentacji**](https://webpack.js.org/configuration/), gdzie można znaleźć dużo teorii. Jeszcze raz podkreślę - ja w tym kursie będę się skupiał bardziej na pokazaniu, jak użyć tej teorii \(oczywiście nie dotyczy to tylko Webpacka\).
+Webpack posiada mnóstwo możliwości konfiguracyjnych, jednak wszystkie są bardzo dobrze udokumentowane. Jak wspomniałem na wstępie, chcę, aby ten tutorial był maksymalnie praktyczny więc poniżej przedstawię po prostu wstępną konfigurację dla naszego projektu, a zainteresowanych tematem odsyłam do [**dokumentacji**](https://webpack.js.org/configuration/), gdzie można znaleźć dużo teorii. Jeszcze raz podkreślę - ja w tym kursie będę się skupiał bardziej na pokazaniu, jak użyć tej teorii \(oczywiście nie dotyczy to tylko Webpacka\).
 
 Generalnie konfigurację dzielę na trzy pliki: **webpack.common.js**, **webpack.prod.js** oraz **webpack.dev.js**. Myślę, że jest dość jasne do czego będą one służyć:
 
