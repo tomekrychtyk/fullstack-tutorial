@@ -1,6 +1,6 @@
 # Konfiguracja package.json
 
-Zanim przejdziemy do `package.json` skonfigurujmy sobie jeszcze na szybko Babel-a. W tym celu bezpośrednio w katalogu client stwórz plik o nazwie `.babelrc` i dodaj do niego następującą zawartość:
+Zanim przejdziemy do `package.json` skonfigurujmy sobie jeszcze na szybko **Babel-a**. W tym celu bezpośrednio w katalogu **client** stwórz plik o nazwie `.babelrc` i dodaj do niego następującą zawartość:
 
 ```javascript
 {
@@ -20,7 +20,7 @@ Teraz otwieramy `package.json` i dodajemy do niego sekcję `scripts`, a w niej d
   }
 ```
 
-Musimy jeszcze odpowiednio skonfigurować ESLint. W tym celu dodajemy również dwie poniższe sekcje:
+Musimy jeszcze odpowiednio skonfigurować **ESLint**. W tym celu dodajemy również dwie poniższe sekcje:
 
 ```javascript
   "eslintIgnore": [
@@ -85,7 +85,7 @@ Musimy jeszcze odpowiednio skonfigurować ESLint. W tym celu dodajemy również
 
 Generalnie jest to konfiguracja jakiej ja używam mniej więcej w każdym React-owym projekcie, aczkolwiek potraktuj ją bardziej jako punkt wyjścia. Naprawdę zachęcam cię do zapoznania się z opcjami konfiguracyjnymi ESLint-a i do modyfikowania powyższego wedle uznania. W ten sposób najszybciej zrozumiesz poszczególne opcje.
 
-Ostatnia rzecz jaką musimy zrobić to stworzyć katalog **src**, a w nim dwa pliki **index.js** oraz **index.html**. index.js na razie zostaw pusty - będzie on służył jako punkt wejściowy naszej aplikacji, więc jest on bardzo ważny, ale na razie potrzebujemy tylko index.html:
+Ostatnia rzecz jaką musimy zrobić to stworzyć katalog **src**, a w nim dwa pliki **index.js** oraz **index.html**. index.js na razie zostaw pusty - będzie on służył jako punkt wejściowy naszej aplikacji, więc jest on bardzo ważny, ale na razie potrzebujemy tylko **index.html:**
 
 {% code-tabs %}
 {% code-tabs-item title="src/index.html" %}
