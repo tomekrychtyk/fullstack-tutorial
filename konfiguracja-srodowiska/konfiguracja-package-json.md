@@ -107,3 +107,11 @@ Ostatnia rzecz jaką musimy zrobić to stworzyć katalog **src**, a w nim dwa pl
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+Teraz możemy odpalić nasze środowisko developerskie za pomocą komendy:
+
+`yarn start`
+
+Jeśli wszystko poszło ok, powinna otworzyć się nowa karta w przeglądarce z \(z typowo Apache-like ;\) \) napisem "**It works!**".
+
+Super! W końcu możemy przejść do rzeczy naprawdę ciekawych, czyli do **React.JS**!
+
