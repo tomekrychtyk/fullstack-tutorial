@@ -13,4 +13,5 @@
 
 * [Po pierwsze: yarn init](konfiguracja-srodowiska/po-pierwsze-yarn-init.md)
 * [Dodajemy Webpack](konfiguracja-srodowiska/dodajemy-webpack.md)
+* [Konfiguracja Webpacka](konfiguracja-srodowiska/konfiguracja-webpacka.md)
 

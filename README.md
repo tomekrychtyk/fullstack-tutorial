@@ -9,6 +9,8 @@
 
 ### Konfiguracja środowiska
 
-* [Po pierwszy: yarn init](konfiguracja-srodowiska/po-pierwsze-yarn-init.md)
+* [Po pierwsze: yarn init](konfiguracja-srodowiska/po-pierwsze-yarn-init.md)
 * [Dodajemy Webpack](konfiguracja-srodowiska/dodajemy-webpack.md)
+
+
 
