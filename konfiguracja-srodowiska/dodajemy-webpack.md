@@ -6,7 +6,7 @@ Instalacja **Webpacka** jest prosta jak instalacja każdej innej paczki. Będąc
 
 Później na etapie konfiguracji webpack-a do celów produkcyjnych, będziemy także potrzebowali kilku pluginów, więc możemy równie dobrze zainstalować je teraz:
 
-`yarn add --dev clean-webpack-plugin html-webpack-plugin optimize-css-assets-webpack-plugin uglifyjs-webpack-plugin webpack-bundle-analyzer webpack-dev-server webpack-merge style-loader css-loader`
+`yarn add --dev clean-webpack-plugin html-webpack-plugin optimize-css-assets-webpack-plugin uglifyjs-webpack-plugin webpack-bundle-analyzer webpack-dev-server webpack-merge style-loader css-loader html-loader`
 
 Jako że będziemy używać React-a, chcemy korzystać ze wszystkich jego dobrodziejstw, między innymi [**JSX**](https://reactjs.org/docs/introducing-jsx.html). Jako że JSX nie jest \(i nie będzie\) w żaden sposób częścią ECMAScriptu, nie możemy po prostu sobie zacząć w nim pisać licząc na to, że przeglądarki jakoś się domyślą o co nam chodzi. Potrzebujemy narzędzie, które w jakiś sposób przetłumaczy kod z wyższego poziomu \(czyli wspomniany JSX, ale także np. ES6\), na kod, który zrozumie przeglądarka. W tym celu użyjemy bardzo popularnego transpilera jakim jest [**Babel**](https://babeljs.io/docs/en/next/babel-core.html):
 
