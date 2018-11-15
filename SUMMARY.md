@@ -9,3 +9,7 @@
 * [Czego się nauczę?](wprowadzenie/czego-sie-naucze.md)
 * [Aplikacja końcowa](wprowadzenie/aplikacja-koncowa.md)
 
+## KONFIGURACJA ŚRODOWISKA
+
+* [Po pierwsze: yarn init](konfiguracja-srodowiska/po-pierwsze-yarn-init.md)
+
