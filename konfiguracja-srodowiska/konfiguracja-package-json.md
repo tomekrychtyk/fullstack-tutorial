@@ -1,6 +1,6 @@
 # Konfiguracja package.json
 
-Zanim przejdziemy do `package.json` skonfigurujmy sobie jeszcze na szybko **Babel-a**. W tym celu bezpośrednio w katalogu **client** stwórz plik o nazwie `.babelrc` i dodaj do niego następującą zawartość:
+Zanim przejdziemy do `package.json` skonfigurujmy sobie jeszcze na szybko **Babel**. W tym celu bezpośrednio w katalogu **client** stwórz plik o nazwie `.babelrc` i dodaj do niego następującą zawartość:
 
 ```javascript
 {
