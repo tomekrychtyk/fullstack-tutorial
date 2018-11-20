@@ -1,6 +1,6 @@
 # Table of contents
 
-* [React.js with Redux + AWS Lambda FullStack Tutorial](README.md)
+* [React.js & Redux + AWS Lambda FullStack Tutorial](README.md)
 
 ## WPROWADZENIE
 
