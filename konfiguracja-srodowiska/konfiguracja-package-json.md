@@ -115,3 +115,8 @@ Jeśli wszystko poszło ok, powinna otworzyć się nowa karta w przeglądarce 
 
 Super! W końcu możemy przejść do rzeczy naprawdę ciekawych, czyli do **React.js**!
 
+{% hint style="info" %}
+Kod źródłowy do tego rozdziału  
+[https://github.com/tomekrychtyk/fullstack-tutorial-src/tree/konfiguracja-srodowiska/master](https://github.com/tomekrychtyk/fullstack-tutorial-src/tree/konfiguracja-srodowiska/master)
+{% endhint %}
+
