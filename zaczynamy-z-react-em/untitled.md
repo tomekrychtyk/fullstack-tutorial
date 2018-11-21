@@ -41,7 +41,7 @@ ReactDOM.render(
 Pierwsze dwie linijki służą generalnie rzecz biorąc do importu samego React-a. Trzecia importuje tzw. `BrowserRouter`. Jest to komponent będący częścią React-Router i daje on nam możliwość definiowania **routingu**.
 
 {% hint style="info" %}
-Routing to najprościej mówiąc sposób zdefiniowania, jak ma się zachowywać aplikacja przy zmianie adresu URL strony, na jakiej się znajdujemy. Jako że budujemy tutaj tzw. SPA \(Single Page Application\), musimy w pewien sposób obejść konwencjonalne zachowanie przeglądarki przy zmianie URL - czyli nie dopuścić do przeładowania strony, a jednocześnie jakoś na to zdarzenie zareagować, czyli zaktualizować treść, którą widzi użytkownik. I to będzie właśnie zadaniem BrowserRouter.
+Routing to najprościej mówiąc sposób zdefiniowania, jak ma się zachowywać aplikacja przy zmianie adresu URL strony, na jakiej się znajdujemy. Jako że budujemy tutaj tzw. **SPA** \(**Single Page Application**\), musimy w pewien sposób obejść konwencjonalne zachowanie przeglądarki przy zmianie URL - czyli nie dopuścić do przeładowania strony, a jednocześnie jakoś na to zdarzenie zareagować, czyli zaktualizować treść, którą widzi użytkownik. I to będzie właśnie zadaniem [BrowserRouter](https://reacttraining.com/react-router/web/api).
 {% endhint %}
 
 Druga część pliku to po prostu "wstrzyknięcie" naszej aplikacji do odpowiedniego elementu HTML na stronie \(czyli w tym przypadku `div`-a o ID `root`. Generalnie idea React-a polega na tym, że cała aplikacja będzie żyć właśnie w tym jednym elemencie, który tutaj podaliśmy.
