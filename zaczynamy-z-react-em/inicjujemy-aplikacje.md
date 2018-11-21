@@ -11,7 +11,7 @@ yarn add react react-dom react-router react-router-dom
 Możemy teraz sprawdzić, czy instalacja React-a i React-Router przebiegła pomyślnie. Jeśli masz uruchomiony serwer developerski \(poprzez komendę `yarn start` którą zdefiniowaliśmy w poprzednim rozdziale\), zatrzymaj go za pomocą `ctrl+c`, a następnie uruchom ponownie.
 
 {% hint style="info" %}
-Serwer developerski wbudowany w Webpack-a posiada mechanizm zwany **Hot Module Replacement** \(w skrócie często po prostu HMR\), który jest świetnym usprawnieniem pracy developera, ponieważ zmiany wprowadzone w plikach naszego projektu widzimy praktycznie od razu po ich zapisaniu, nawet bez odświeżania strony. HMR ma jednak swoje limitacje i jedną z nich jest przypadek, kiedy instalujemy nowe biblioteki w naszym projekcie. Wówczas musimy zrestartować serwer, aby aplikacja móc ich użyć. Więcej na ten temat można znaleźć oczywiście w [dokumentacji](https://webpack.js.org/concepts/hot-module-replacement/).
+Serwer developerski wbudowany w Webpack-a posiada mechanizm zwany **Hot Module Replacement** \(w skrócie często po prostu **HMR**\), który jest świetnym usprawnieniem pracy developera, ponieważ zmiany wprowadzone w plikach naszego projektu widzimy praktycznie od razu po ich zapisaniu, nawet bez odświeżania strony. HMR ma jednak swoje limitacje i jedną z nich jest przypadek, kiedy instalujemy nowe biblioteki w naszym projekcie. Wówczas musimy zrestartować serwer, aby aplikacja móc ich użyć. Więcej na ten temat można znaleźć oczywiście w [dokumentacji](https://webpack.js.org/concepts/hot-module-replacement/).
 {% endhint %}
 
 Teraz możemy dodać React do naszego projektu. 
