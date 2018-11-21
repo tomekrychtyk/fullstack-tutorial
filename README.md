@@ -16,7 +16,7 @@
 
 ### Zaczynamy z React-em
 
-* [Inicjujemy aplikację](zaczynamy-z-react-em/untitled.md)
+* [Inicjujemy aplikację](zaczynamy-z-react-em/inicjujemy-aplikacje.md)
 
 
 
