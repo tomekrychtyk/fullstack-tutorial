@@ -1,5 +1,10 @@
 # Inicjujemy aplikację
 
+{% hint style="info" %}
+Kod źródłowy do tego rozdziału:  
+[https://github.com/tomekrychtyk/fullstack-tutorial-src/tree/zaczynamy-z-reactem/inicjujemy-aplikacje](https://github.com/tomekrychtyk/fullstack-tutorial-src/tree/zaczynamy-z-reactem/inicjujemy-aplikacje)
+{% endhint %}
+
 ## Instalacja React-a
 
 Zanim zaczniemy cokolwiek robić w **React.js**, musimy go oczywiście najpierw zainstalować. Oprócz tego będziemy jeszcze używać **React-Router** więc warto również zadbać już teraz, by i ta paczka była obecna w naszym projekcie. Z linii poleceń wykonaj następującą komendę:
@@ -47,4 +52,9 @@ Routing to najprościej mówiąc sposób zdefiniowania, jak ma się zachowywać
 Druga część pliku to po prostu "wstrzyknięcie" naszej aplikacji do odpowiedniego elementu HTML na stronie \(czyli w tym przypadku `div`-a o ID `root`. Generalnie idea React-a polega na tym, że cała aplikacja będzie żyć właśnie w tym jednym elemencie, który tutaj podaliśmy.
 
 Jeśli na chwilę obecną wygląda to wszystko niejasno, nie przejmuj się. Po pierwsze, tak naprawdę tutaj nadal jeszcze w pewnym sensie konfigurujemy naszą aplikację \(inicujejmy routing, pokazujemy gdzie wyrenderować aplikację etc.\), a po drugie ta "właściwa" część React-a jak i ogólnie tego tutoriala jest dużo lżejsza w odbiorze.
+
+{% hint style="info" %}
+Kod źródłowy do tego rozdziału:  
+[https://github.com/tomekrychtyk/fullstack-tutorial-src/tree/zaczynamy-z-reactem/inicjujemy-aplikacje](https://github.com/tomekrychtyk/fullstack-tutorial-src/tree/zaczynamy-z-reactem/inicjujemy-aplikacje)
+{% endhint %}
 
